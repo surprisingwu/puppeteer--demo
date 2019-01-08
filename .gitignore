@@ -1,0 +1,8 @@
+screenshot/*.png
+mn/*.jpg
+mn/*.png
+mn/*.gif
+mn/*.jpeg
+
+node_modules/
+.vscode
